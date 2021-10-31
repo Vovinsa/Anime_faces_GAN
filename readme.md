@@ -2,4 +2,4 @@
 
 GAN for generating anime faces from a latent vector
 
-!["img"][anime.png]
+!["img"](anime.png)
